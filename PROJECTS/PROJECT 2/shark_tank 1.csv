@@ -1,0 +1,94 @@
+Number of Startups by Industry,,
+Row Labels,Count of Startup Name,
+Agriculture,3,
+Animal/Pets,4,
+Beauty/Fashion,52,
+Education,9,
+Electronics,2,
+Entertainment,1,
+Food,78,
+Furnishing/Household,13,
+Hardware,2,
+Liquor/Beverages,6,
+Manufacturing,33,
+Medical/Health,21,
+Services,22,
+Sports,7,
+Technology/Software,25,
+Vehicles/Electrical Vehicles,12,
+Grand Total,290,
+,,
+,,
+,,
+,,
+Average Deal Amount by Industry,,
+,,
+Row Labels,Sum of Total Deal Amount,
+Agriculture,60,
+Animal/Pets,110,
+Beauty/Fashion,1972,
+Education,440,
+Electronics,200,
+Entertainment,150,
+Food,2457.60005,
+Furnishing/Household,225,
+Hardware,25,
+Liquor/Beverages,150,
+Manufacturing,1081,
+Medical/Health,1517.00101,
+Services,1032,
+Sports,205,
+Technology/Software,900,
+Vehicles/Electrical Vehicles,421,
+Grand Total,10945.60106,
+,,
+,,
+,,
+,,
+Gender Breakdown by Industry,,
+,,
+,,
+Row Labels,Sum of Male Presenters,Sum of Female Presenters
+Agriculture,5,1
+Animal/Pets,4,3
+Beauty/Fashion,52,38
+Education,12,9
+Electronics,5,
+Entertainment,3,
+Food,120,46
+Furnishing/Household,19,11
+Hardware,4,
+Liquor/Beverages,11,2
+Manufacturing,47,20
+Medical/Health,39,8
+Services,38,16
+Sports,16,
+Technology/Software,45,7
+Vehicles/Electrical Vehicles,22,1
+Grand Total,442,162
+,,
+,,
+,,
+,,
+,,
+Offers Received and Accepted,,
+,,
+,,
+Row Labels,Sum of Received Offer,Sum of Accepted Offer
+Agriculture,2,2
+Animal/Pets,2,2
+Beauty/Fashion,40,34
+Education,7,6
+Electronics,2,2
+Entertainment,1,1
+Food,59,44
+Furnishing/Household,6,5
+Hardware,1,1
+Liquor/Beverages,3,3
+Manufacturing,23,19
+Medical/Health,19,18
+Services,14,12
+Sports,4,4
+Technology/Software,18,14
+Vehicles/Electrical Vehicles,9,8
+Grand Total,210,175

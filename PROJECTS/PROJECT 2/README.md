@@ -1,74 +1,94 @@
-# Shark-Tank-india
-Startup Investment Analysis (Shark Tank Data)
-
 # 🦈 Shark Tank India Startup Analysis 📊
 
-This project provides an interactive Tableau dashboard and data analysis based on **Shark Tank India** startup pitches. It explores funding trends, founder demographics, industry-wise distributions, and conversion metrics using real-world pitch data.
+## 📌 Project Overview
+
+This project was completed as part of the **Elevate Labs Data Analyst Internship**.
+
+The objective of this project is to analyze **Shark Tank India** startup investment data using **Tableau**. The interactive dashboard provides insights into funding trends, founder demographics, industry-wise investments, deal conversion rates, and funding patterns through effective data visualization.
+
+---
 
 ## 📷 Dashboard Preview
 
 ![Shark Tank Dashboard](Dashboard.png)
 
+---
+
 ## 📁 Files Included
 
-- `shark_tank.csv` – Cleaned dataset containing startup names, industry, funding requests, and outcomes.
-- `SharkTank_Analysis.twbx` – Tableau Packaged Workbook file containing all the dashboards and visualizations.
-- `README.md` – This documentation file.
+- `shark_tank.csv` – Cleaned dataset containing startup names, industries, funding requests, and investment outcomes.
+- `Shark Tank dashboard.twb` – Tableau workbook containing the complete interactive dashboard.
+- `Dashboard.png` – Dashboard preview image.
+- `README.md` – Project documentation.
 
 ---
 
 ## 📊 Dashboard Features
 
-### 1. Funding Amount by Industry
-Bar chart showing **total deal amount** received by startups across various industries.
+### 1️⃣ Funding Amount by Industry
+Displays the total investment received across different startup industries.
 
-### 2. Offer & Acceptance Rates
-Treemap visualizing industries based on the **volume of offers received and accepted**.
+### 2️⃣ Offer & Acceptance Rates
+Visualizes industries based on the number of investment offers received and accepted.
 
-### 3. Founder Gender Composition
-Pie chart showing the **gender split** between male and female presenters.
+### 3️⃣ Founder Gender Composition
+Shows the distribution of male and female startup founders.
 
-### 4. Deal Conversion Funnel
-A funnel chart representing the **startup journey**:
-- Total Startups → Received Offers → Accepted Offers.
+### 4️⃣ Deal Conversion Funnel
+Represents the startup journey from:
+- Total Startups
+- Received Offers
+- Accepted Offers
 
-### 5. Ask vs Deal Amount
-Scatterplot comparing **original funding ask vs actual deal amount**.
+### 5️⃣ Ask vs Deal Amount
+Compares the original funding requested by startups with the actual deal amount received.
 
 ---
 
 ## 📈 Key Insights
 
-- **Food** and **Beauty/Fashion** dominate in terms of funding received.
-- **Male founders** are significantly more common, though female representation is notable in certain sectors.
-- **Not all offers are accepted**, indicating negotiation or valuation gaps.
-- **Some startups received more than they asked for**, while others settled for less.
+- Food and Beauty/Fashion startups received the highest investments.
+- Male founders represented the majority of startup pitches.
+- Not every investment offer resulted in a successful deal.
+- Several startups secured investments that differed from their original funding requests.
 
 ---
 
-## 🧰 Tools Used
+## 🛠️ Tools & Technologies
 
-- **Tableau**: Data visualization and dashboard creation.
-- **Excel / CSV**: Data cleaning and pivot preparation.
+- Tableau
+- Microsoft Excel
+- CSV Dataset
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Run the Project
 
 1. Clone or download this repository.
-2. Open the `.twbx` file in Tableau Desktop.
-3. Interact with filters, hover for tooltips, and explore insights.
+2. Open **Shark Tank dashboard.twb** in Tableau Desktop.
+3. Explore the interactive dashboard using filters and visualizations.
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Internship Information
 
-**Created by:** Abhijeet Kuanr  
-📧 Email: abhijeet.kuanr@gmail.com  
-🔗 LinkedIn: [abhijeet-kuanr-6a2672160](https://www.linkedin.com)
+**Internship:** Elevate Labs – Data Analyst Internship
+
+**Project:** Shark Tank India Startup Analysis
 
 ---
 
-## 📌 License
+## 👤 Author
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+**Anubhav Nayak**
+
+B.Tech CSE (3rd Year)
+
+Institute of Technical Education and Research (ITER), SOA University
+
+
+---
+
+## 📜 License
+
+This project is created for educational purposes as part of the **Elevate Labs Data Analyst Internship**.

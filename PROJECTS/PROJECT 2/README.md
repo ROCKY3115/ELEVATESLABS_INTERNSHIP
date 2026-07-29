@@ -1,22 +1,59 @@
-# Project 2
+Shark-Tank-india
+Startup Investment Analysis (Shark Tank Data)
 
-This directory contains Project 2 for the ELEVATESLABS_INTERNSHIP repository.
+🦈 Shark Tank India Startup Analysis 📊
+This project provides an interactive Tableau dashboard and data analysis based on Shark Tank India startup pitches. It explores funding trends, founder demographics, industry-wise distributions, and conversion metrics using real-world pitch data.
 
-Overview
-- Title: Project 2
-- Author: ROCKY3115
-- Created: 2026-07-29
 
-Description
-A placeholder README for Project 2. Replace this content with the project description, goals, dataset links, notebooks, and instructions.
+📁 Files Included
 
-Suggested structure
-- notebooks/
-- data/
-- src/
-- results/
+shark_tank.csv – Cleaned dataset containing startup names, industry, funding requests, and outcomes.
+SharkTank_Analysis.twbx – Tableau Packaged Workbook file containing all the dashboards and visualizations.
+README.md – This documentation file.
+📊 Dashboard Features
 
-Next steps
-1. Add a Jupyter notebook or code files to `notebooks/` and `src/`.
-2. Add datasets to `data/` (or link to external datasets).
-3. Update this README with project specifics and usage instructions.
+1. Funding Amount by Industry
+
+Bar chart showing total deal amount received by startups across various industries.
+
+2. Offer & Acceptance Rates
+
+Treemap visualizing industries based on the volume of offers received and accepted.
+
+3. Founder Gender Composition
+
+Pie chart showing the gender split between male and female presenters.
+
+4. Deal Conversion Funnel
+
+A funnel chart representing the startup journey:
+
+Total Startups → Received Offers → Accepted Offers.
+5. Ask vs Deal Amount
+
+Scatterplot comparing original funding ask vs actual deal amount.
+
+📈 Key Insights
+
+Food and Beauty/Fashion dominate in terms of funding received.
+Male founders are significantly more common, though female representation is notable in certain sectors.
+Not all offers are accepted, indicating negotiation or valuation gaps.
+Some startups received more than they asked for, while others settled for less.
+🧰 Tools Used
+
+Tableau: Data visualization and dashboard creation.
+Excel / CSV: Data cleaning and pivot preparation.
+🚀 How to Use
+
+Clone or download this repository.
+Open the .twbx file in Tableau Desktop.
+Interact with filters, hover for tooltips, and explore insights.
+📬 Contact
+
+Created by: Abhijeet Kuanr
+📧 Email: abhijeet.kuanr@gmail.com
+🔗 LinkedIn: abhijeet-kuanr-6a2672160
+
+📌 License
+
+This project is open-source and free to use under the MIT License.

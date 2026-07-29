@@ -86,7 +86,6 @@ B.Tech CSE (3rd Year)
 
 Institute of Technical Education and Research (ITER), SOA University
 
-GitHub: https://github.com/anubhavnayakrocky05
 
 ---
 

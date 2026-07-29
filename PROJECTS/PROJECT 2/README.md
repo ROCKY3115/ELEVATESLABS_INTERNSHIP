@@ -5,9 +5,9 @@ Startup Investment Analysis (Shark Tank Data)
 
 This project provides an interactive Tableau dashboard and data analysis based on **Shark Tank India** startup pitches. It explores funding trends, founder demographics, industry-wise distributions, and conversion metrics using real-world pitch data.
 
-![Screenshot 2026-06-29 093745]([https://github.com/user-attachments/assets/e789fc14-57b4-4e87-864d-87eeb72548e4](https://github.com/ROCKY3115/ELEVATESLABS_INTERNSHIP/blob/main/PROJECTS/PROJECT%202/README.md))
+## 📷 Dashboard Preview
 
----
+![Shark Tank Dashboard](dashboard.png)
 
 ## 📁 Files Included
 

@@ -7,7 +7,7 @@ This project provides an interactive Tableau dashboard and data analysis based o
 
 ## 📷 Dashboard Preview
 
-![Shark Tank Dashboard](dashboard.png)
+![Shark Tank Dashboard](Dashboard.png)
 
 ## 📁 Files Included
 
